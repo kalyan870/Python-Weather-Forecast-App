@@ -1,6 +1,7 @@
 # Weather Forecast App
 
 <p align="center"><strong>A weather forecast project showcase for current conditions such as temperature, humidity, wind, and weather status.</strong></p>
+**Live link:** [https://huggingface.co/spaces/saragadamkalyan/weather-live-forecast](https://huggingface.co/spaces/saragadamkalyan/weather-live-forecast)
 
 ## Project overview
 
@@ -26,3 +27,10 @@ This is a conceptual flow based on the project description, not a verified imple
 ## Make it runnable
 
 Add the CLI source, API-provider instructions, dependency file, and a `.env.example` that contains variable names only. Keep the provider key out of Git. Include sample output and note API quotas and forecast limitations.
+
+## Architecture
+
+
+![Python-Weather-Forecast-App architecture map](docs/images/python-weather-forecast-app-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/python-weather-forecast-app-architecture.svg)
